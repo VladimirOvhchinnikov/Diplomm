@@ -1,0 +1,9 @@
+{
+    "servers": [
+        {"addr": "localhost:8080"},
+        {"addr": "localhost:8081"},
+        {"addr": "localhost:8082"}
+    ],
+    "logLevel": "info",
+    "timeout": 30
+}
